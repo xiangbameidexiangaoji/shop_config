@@ -16,4 +16,4 @@ eureka:
 tx-lcn:
   client:
     manager-address: 192.168.130.152:8070
-test1
+test: test1
